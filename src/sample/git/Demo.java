@@ -1,4 +1,4 @@
-package sample;
+package sample.git;
 
 public class Demo
 {
